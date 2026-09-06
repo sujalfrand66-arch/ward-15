@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Ward 15">
-  <rect width="128" height="128" rx="24" fill="#e6f2fb"/>
-  <circle cx="64" cy="52" r="31" fill="#ffffff" stroke="#0f6fbd" stroke-width="6"/>
-  <path d="M43 58c9 17 33 17 42 0" fill="none" stroke="#168a5b" stroke-width="7" stroke-linecap="round"/>
-  <text x="64" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#0f6fbd">15</text>
-  <text x="64" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#12211f">WARD</text>
-</svg>
